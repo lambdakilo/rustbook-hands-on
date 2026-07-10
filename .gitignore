@@ -4,3 +4,4 @@
 !*.toml
 !.gitignore
 *target
+!*.lock
